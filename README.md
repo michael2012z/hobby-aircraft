@@ -20,3 +20,5 @@ The first jets developed during World War II and saw combat in the last two year
 - https://en.wikipedia.org/wiki/Airbreathing_jet_engine
 - https://en.wikipedia.org/wiki/Fighter_aircraft
 - https://en.wikipedia.org/wiki/Bomber
+- https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
+- https://www.countries-ofthe-world.com/flags-of-the-world.html
